@@ -1,3 +1,3 @@
-# <h1> Hey there! :wave::wink:
-## <h2> Welcome to my portifolio
-######  <h6> 18 March 2021
+#  Hey there! :wave::wink:
+##  Welcome to my portifolio
+######   18 March 2021
