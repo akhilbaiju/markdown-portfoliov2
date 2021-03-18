@@ -1,7 +1,7 @@
-*This text will be italic*
-_This will also be italic_
+*TNo good movie is too long and no bad movie is short enough.” “Every great film should seem new every time you see it.” “Art is the closest we can come to understanding how a stranger really feels*
+_unknown_
 
-**This text will be bold**
-__This will also be bold__
+**19 MAR 2020**
+__9:00 PM__
 
-_You **can** combine them_
+_You YA ya_
